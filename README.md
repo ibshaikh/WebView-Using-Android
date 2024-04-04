@@ -19,7 +19,7 @@ This demo app showcases how to load a web page into a WebView, handle basic navi
 1. Clone or download the repository.
 
    ```bash
-   git clone https://github.com/your-username/webview-demo.git
+   gh repo clone ibshaikh/WebView-Using-Android
 
 2. Open the project in Android Studio.
 
